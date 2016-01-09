@@ -235,7 +235,7 @@ function create_config( )
   print ('saved config into ./data/config.lua')
 end
 
-function on_our_id (id)
+function on_our_id (telelordteam)
   our_id = id
 end
 
